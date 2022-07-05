@@ -3,7 +3,7 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
-  - devops-funny
+  - octocat
 body:
   - type: markdown
     attributes:
